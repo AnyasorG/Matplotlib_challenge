@@ -4,25 +4,6 @@
 
 Welcome to the repository for the Pymaceuticals Anticancer Study. This project focuses on a comprehensive exploration of the company's recent study, aiming to uncover key insights into the efficacy of various anticancer treatments, with a specific emphasis on Pymaceuticals' drug of interest, Capomulin.
 
-## Report Title:
-
-**Exploring Pymaceuticals' Anticancer Study: Unveiling Treatment Efficacy, Variability, and Correlates in Tumor Response**
-
-## Table of Contents:
-
-1. **Notebooks:**
-   - `pymaceuticals_analysis.ipynb`: The main notebook containing the data analysis for the anticancer study.
-   - `visualization.ipynb`: Supplementary notebook focusing on data visualization.
-
-2. **Data:**
-   - `mouse_data.csv`: Raw data from the squamous cell carcinoma mouse model study.
-
-3. **Figures:**
-   - A folder containing all figures generated during the analysis for easy reference.
-
-4. **Summary:**
-   - `summary.txt`: A concise summary of the key findings and insights from the study.
-
 ## Prerequisites:
 
 To run this project, you'll need the following:
@@ -55,6 +36,10 @@ The code source can be found here: [https://github.com/AnyasorG/Matplotlib_chall
 - Description: The data represents the results of an anticancer study conducted on mice with squamous cell carcinoma (SCC). The study aimed to compare the performance of Pymaceuticals' drug of interest, Capomulin, against other treatment regimens. Data analysis was performed using the Python programming language (version 3.10.13 packaged by Anaconda, Inc.) and Pandas library (version 2.0.3). The analysis was conducted in Jupyter Notebook (version 5.3.0), leveraging Pandas for data processing and manipulation. The project followed a structured methodology to ensure the data was well-processed and suitable for analysis.
 
 Feel free to explore the notebooks, figures, and the summary to gain a deeper understanding of the study's outcomes. If you have any questions or need further clarification, please don't hesitate to reach out.
+
+## Report Title:
+
+**Exploring Pymaceuticals' Anticancer Study: Unveiling Treatment Efficacy, Variability, and Correlates in Tumor Response**
 
 ## Key Observations and Insights from the Pymaceutical Anticancer Study Data Analysis:
 
